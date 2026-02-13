@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 👨‍💻 Software Developer in progress. `Junior` [at the moment](https://riwi.io/)
+- 👨‍💻 Software Developer in progress. `Junior` [at present](https://riwi.io/)
 - ⚙️ Frontend | `Backend | APIs `| Databases **&** 4x `Scholarship`
 - 🚀 Learning today, building tomorrow
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
