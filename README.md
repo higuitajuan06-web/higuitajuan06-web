@@ -20,7 +20,7 @@
 - ⚙️ Frontend | `Backend | APIs `| Databases **&** 4x `Scholarship`
 - 🚀 Learning today, building tomorrow
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
+- :boom: You can visit [MY WEBSITE]( https://higuitajuan06-web.github.io/portafolio-2/) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
