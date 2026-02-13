@@ -16,8 +16,9 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 👨‍💻: Software Developer in progress. I am a `Junior` at [School](https://riwi.io/)
+- :👨‍💻: Software Developer in progress. `Junior` [at the moment](https://riwi.io/)
 - :⚙️: Frontend | `Backend | APIs `| Databases **&** 4x `Scholarship`
+- :🚀: Aprendiendo hoy, construyendo el mañana
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
